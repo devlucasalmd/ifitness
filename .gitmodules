@@ -1,0 +1,3 @@
+[submodule "ifitness"]
+	path = ifitness
+	url = git@github.com:devlucasalmd/ifitness.git
